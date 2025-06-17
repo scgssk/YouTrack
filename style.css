@@ -1,22 +1,43 @@
 body {
-  background: #111;
-  color: #fff;
-  font-family: sans-serif;
-  padding: 1rem;
-  width: 300px;
+    background: #111;
+    color: #fff;
+    font-family: sans-serif;
+    padding: 1rem;
+    width: 300px;
+    border: #00bfff 1px solid;
+    border-radius: 10px;
 }
-h2, h3 {
-  color: #ff5555;
+
+h2,
+h3 {
+    color: #ff5555;
 }
+
 a {
-  color: #00bfff;
-  text-decoration: none;
+    color: #00bfff;
+    text-decoration: none;
 }
+
 button {
-  padding: 8px 12px;
-  background: #ff0000;
-  border: none;
-  color: white;
-  border-radius: 4px;
-  margin-top: 5px;
+    cursor: pointer;
+    padding: 8px 12px;
+    background: #ff0000;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+button:hover {
+    background: #ff1111;
+}
+
+#clear{
+        margin-top: 10px;
+        background: #333;
+        color: #fff;
+        border: 1px solid #00bfff;
+}
+
+#clear:hover {
+    background: #000;
 }
