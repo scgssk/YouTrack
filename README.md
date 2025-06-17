@@ -2,7 +2,7 @@
 
 Track and resume YouTube videos from where you left off — even after browser restarts!
 
-![Banner](https://img.shields.io/badge/YouTube--Resume-Extension-blue)
+![Banner](https://img.shields.io/badge/YouTube--YouTrack-Extension-blue)
 
 ---
 
