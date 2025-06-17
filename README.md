@@ -74,9 +74,3 @@ Pull requests are welcome!
 You can also open issues for bugs or feature suggestions.
 
 ---
-
-## 📄 License
-
-**MIT License** — Free to use, modify, and distribute.
-
----
