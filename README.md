@@ -80,5 +80,3 @@ You can also open issues for bugs or feature suggestions.
 **MIT License** — Free to use, modify, and distribute.
 
 ---
-
-> 📁 Repository: [https://github.com/scgssk/youtube-video-tracker-extension](https://github.com/scgssk/youtube-video-tracker-extension)
