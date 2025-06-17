@@ -19,7 +19,7 @@ Track and resume YouTube videos from where you left off — even after browser r
 
 ## 📦 How to Install (Manual)
 
-1. Click [Download ZIP](https://github.com/scgssk/youtube-video-tracker-extension/archive/refs/heads/Master.zip)
+1. Click [Download ZIP](https://github.com/scgssk/YouTrack/archive/refs/heads/Master.zip)
 2. Extract the folder
 3. Open your browser:
    - Go to `chrome://extensions/` (for Chrome)
