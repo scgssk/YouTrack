@@ -1,0 +1,22 @@
+body {
+  background: #111;
+  color: #fff;
+  font-family: sans-serif;
+  padding: 1rem;
+  width: 300px;
+}
+h2, h3 {
+  color: #ff5555;
+}
+a {
+  color: #00bfff;
+  text-decoration: none;
+}
+button {
+  padding: 8px 12px;
+  background: #ff0000;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  margin-top: 5px;
+}
